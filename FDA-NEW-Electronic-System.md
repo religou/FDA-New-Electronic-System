@@ -6,7 +6,7 @@
 
 # *DRAFT GUIDANCE*
 
-```markdown
+```中文翻译
 ```
 
 This guidance document is being distributed for comment purposes only.
@@ -35,5 +35,6 @@ Used in Clinical Investigations (May 2007). Other related guidances are included
 Appendix.
 
 ```中文翻译
+本指南修订了2017年6月发布的《临床研究下基于21 CFR Part 11电子记录和电子签名的行业用途 -- 问题和回复》的指导意见草案。
 ```
 
